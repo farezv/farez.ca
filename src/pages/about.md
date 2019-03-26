@@ -1,23 +1,33 @@
 ---
-title: "About"
-date: "2018-07-19"
-author: "Radek"
-path: "/about"
+layout: page
+title: About
+date: "2012-06-25 03:44"
+author: farezv
+comments: true
+categories: []
+published: true
 ---
 
-## Hi there
+Hi, my name is Farez and I'm a comp sci grad and music enthusiast from Vancouver, Canada.
 
-My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
+This blog will share and analyze my programming, music and video game related projects with the occasional personal post.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+### Computer Science
 
-This starter is pretty basic and covers all of the essentials. All you have to do is start typing!
+After high school, I went to the University of British Columbia and initially had no idea what I wanted to do. After a few months of pursuing pharmacy school, I decided it wasn't for me. So I switched into the comp sci program during the summer of 2011 and haven't looked back.
 
-The starter includes:
+I've completed courses in software engineering, computer systems and networks, algorithms and data structures, relational databases, with a sprinkle of graphics and AI.
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)
+### Work Experience
 
-So, there you have it... enjoy!
+I started working when I was 15 and had a number of part time jobs throughout most of my high school and college life.
+
+During university I interned at [Genesis Gaming](http://gen-game.com) and at [Citrix ShareFile](http://sharefile.com) and I worked at Genesis full time from June 2015 to May 2017.
+
+I then worked on [FIFA Mobile](https://www.easports.com/fifa/fifa-mobile) at [Electronic Arts](https://www.ea.com/) for a year and I'm now looking for my next gig.
+
+My professional programming experience spans Java, C#, TypeScript and Haxe and I try to keep up with the latest tech with my [side projects](http://farez.ca/projects.html) ("try" being the imperative word). I've also programmed in C and C++ before, for school projects. I'm positive I'd have no issues picking up new languages and frameworks to get the job done.
+
+If my experience and skill set aligns well with an opportunity you know about, please get in touch via [LinkedIn](http://linkedin.com/in/farezv).
+
+Thanks for stopping by!
